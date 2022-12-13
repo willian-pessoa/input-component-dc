@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](src/images/firstpage.jpg)
+![screenshot](src/images/inputscreen.jpg)
 
 This challenge is to create a component input reusable with some predefined styles using react.js. The project was good to practice my organization and translate a predefined design into code. This time, I did two UI components to help build the main page which shows the input variants.
 
