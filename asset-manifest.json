@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/input-component-dc/static/css/main.9f9f58de.css",
+    "main.js": "/input-component-dc/static/js/main.a562d428.js",
+    "index.html": "/input-component-dc/index.html",
+    "main.9f9f58de.css.map": "/input-component-dc/static/css/main.9f9f58de.css.map",
+    "main.a562d428.js.map": "/input-component-dc/static/js/main.a562d428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f9f58de.css",
+    "static/js/main.a562d428.js"
+  ]
+}
