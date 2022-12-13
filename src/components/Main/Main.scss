@@ -1,0 +1,37 @@
+.main {
+  width: calc(100vw - 237px);
+  height: 100%;
+  padding: 53px 0 0 83px;
+  overflow-y: auto;
+
+  h3 {
+    font-size: 24px;
+    font-family: "Poppins";
+    font-weight: 500;
+    color: #4f4f4f;
+    margin-bottom: 28px;
+  }
+
+  .p-footer {
+    font-family: "Ubuntu Mono";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: #828282;
+    margin: 15px;
+  }
+
+  .main-variants {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px)
+{
+  .main
+   {
+    width: 100%;
+   }
+}
